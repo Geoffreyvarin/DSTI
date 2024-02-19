@@ -40,7 +40,6 @@ Open the Jupyter Notebook (`Stroke_Prediction_Model.ipynb`) and run the cells se
 ## Results
 The results so far show a higher performance of logistic regression methodologies when favouring recall.
 The Confusion Matrix is as follow:
-
                       | Predicted: No | Predicted: Yes
 --------------------- | ------------- | --------------
 Actual: No            |    694        |      285
