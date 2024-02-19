@@ -24,7 +24,7 @@ stroke_data.csv provided in the enclosing zip file
 ## Installation
 To set up the project environment, run the following command to install required dependencies:
 ```bash
-pip install -r requirements.txt
+pip install -r stroke_requirements.txt
 ```
 
 ## Usage
