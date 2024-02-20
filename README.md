@@ -1,6 +1,8 @@
 
 # Stroke Prediction Model
 
+https://github.com/Geoffreyvarin/DSTI/
+
 ## Project Overview
 This project focuses on predicting the likelihood of a stroke in patients based on various health parameters. The dataset used comprises different attributes like age, gender, hypertension status, heart disease presence, etc., with the goal to train a model that can accurately predict stroke occurrences.
 
